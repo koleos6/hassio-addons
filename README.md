@@ -1,4 +1,4 @@
-# fmartinou hass.io add-ons repository
+# koleos6 hass.io add-ons repository
 
 Koleos6 hass.io add-ons repository.
 
